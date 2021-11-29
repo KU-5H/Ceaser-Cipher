@@ -12,7 +12,7 @@ values
 //Create a scanner
 import java.util.Scanner;
 
-public class MyProgram
+public class CipherTester
 {
     public static void main(String[] args)
     {
