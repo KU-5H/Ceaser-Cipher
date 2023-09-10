@@ -1,5 +1,5 @@
 # Ceaser-Cipher
-A java and Python based program that shift letters in a message by a certain shift values
+A Java and Python based program that shift letters in a message by a certain shift values
 
 Uses a basic java scanner tool to get the message that neeeds to be shifted and the shift value for the message.
 
